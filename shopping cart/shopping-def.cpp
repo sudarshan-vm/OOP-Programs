@@ -1,4 +1,4 @@
-#include "shopping.h"
+#include "shopping-dec.h"
 #include<stdio.h>
 
 int ITEM::icounter;
